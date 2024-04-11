@@ -1,0 +1,14 @@
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(135deg, rgba(2,0,36,1) 0%, rgb(140, 156, 145) 0%, rgb(70, 131, 143) 100%);
+}
+img{
+    width:200px;
+    height:100%;
+}
+.center{
+    text-align: center;
+    font-size: 60px;
+    color:red;
+
+}   
